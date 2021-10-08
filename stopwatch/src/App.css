@@ -1,0 +1,24 @@
+.main {
+    font-size: 30px;
+    font-weight: 700;
+}
+h1 {
+    text-align: center;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+.buttons button {
+    margin: 10px;
+    width: 100px;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green
+}
+ul{
+    list-style: none;
+}
